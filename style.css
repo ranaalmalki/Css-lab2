@@ -1,0 +1,61 @@
+
+
+.text-container{
+    font-size: 40px;
+    text-align: center;
+    color: aliceblue;
+    background-image: url('photo/soupHedar.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    background-position: bottom;
+    height: 49vh;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+border-bottom: 5px solid black;
+
+}
+
+.discription{
+    color: black;
+    font-size: x-large;
+    text-align: center;
+background-image: url('photo/SoupInfo.png');
+background-position: bottom;
+height: 20vh;
+background-repeat: no-repeat;
+background-size: 340px
+
+}
+
+.Ingredients{
+
+    background-image: url('photo/SoupInfo.png');
+    background-position: bottom;
+height: 45vh;
+background-repeat: no-repeat;
+font-size: large;
+background-size: 340px
+
+
+}
+
+h2{
+border: 1px solid rgb(218, 189, 137);    
+background-color: antiquewhite;
+border-style: groove;
+}
+.direction{
+    background-image: url('photo/cooking-info.png');
+    background-position: bottom;
+height: 45vh;
+background-repeat: no-repeat;
+font-size: large;
+background-size: 340px
+}
+
+
+
+
